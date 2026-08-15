@@ -166,6 +166,7 @@ Chart.js / Three.js Visualization
         ↓
 User (Results + AI Context)
 ```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7b56918b-c45c-49e0-b0cc-685e98941f8d" />
 
 ---
 
