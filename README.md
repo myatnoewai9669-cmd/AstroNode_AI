@@ -229,8 +229,3 @@ MIT License — Open source for research and education.
 
 
 *Built with ❤️ for IBM AI Builders Challenge 2026 · Powered by IBM Granite & watsonx.ai*
-
-
-```
-
-Competition judges တွေ GitHub မှာ README ကို အရင်ဆုံး ကြည့်တာမို့ ဒါ အရေးကြီးဆုံးပါ ✅
